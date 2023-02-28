@@ -14,36 +14,36 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Africa/Nairobi
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Jack Kiwema                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Doc site for my blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Doc site for my blog post
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://dylanowen38.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: dylanowen38             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: jokseth            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Jack Kiwema
+  email: jackkiwema@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/jackkiwema      # change to your twitter homepage
+    - https://github.com/jokseth       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://www.gravatar.com/avatar/533e0153e3fef7e8cf6d38ee008b7ec8
 
 # boolean type, the global switch for ToC in posts.
 toc: true
